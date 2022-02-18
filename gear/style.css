@@ -16,6 +16,7 @@ body {
   height: 110px;
   border-radius: 50%;
   background-color: #5dc59d;
+  position: relative;
 }
 
 .gear-inner {
